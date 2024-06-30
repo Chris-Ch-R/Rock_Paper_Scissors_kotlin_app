@@ -1,0 +1,2 @@
+# Rock_Paper_Scissors_kotlin_app
+Rock_Paper_Scissors_kotlin_app for learning kotlin basics.
